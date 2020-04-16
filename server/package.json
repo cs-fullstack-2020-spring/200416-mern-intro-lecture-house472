@@ -1,0 +1,24 @@
+{
+  "name": "200416-mern-intro-lecture-house472",
+  "version": "1.0.0",
+  "description": "### File Structure + Set Up - Create a directory called `server` - this is where our server will be  - Create a react app called `client` - this is where our react app will be - Create an express server with a create endpoint and read all endpoint mounted to an `api` path - Test endpoints - In the react app create a class based `AppContainer` component and render the text `Simple MERN Application` - Run React App to view in browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-fullstack-2020-spring/200416-mern-intro-lecture-house472.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cs-fullstack-2020-spring/200416-mern-intro-lecture-house472/issues"
+  },
+  "homepage": "https://github.com/cs-fullstack-2020-spring/200416-mern-intro-lecture-house472#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.9",
+    "nodemon": "^2.0.3"
+  }
+}
